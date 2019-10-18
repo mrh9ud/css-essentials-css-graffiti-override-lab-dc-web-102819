@@ -10,4 +10,5 @@ body #wall #tag-2 {
 }
 body div #wall #tag-3 .slick wicked {
   background: none;
+  display: none;
 }
